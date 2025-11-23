@@ -1,0 +1,11 @@
+{
+  "id": "update-tags",
+  "name": "Update Tags",
+  "version": "0.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "Add or remove YAML frontmatter tags across files with folder scoping and dry-run.",
+  "author": "with_tyler",
+  "authorUrl": "",
+  "isDesktopOnly": false,
+  "main": "main.js"
+}
